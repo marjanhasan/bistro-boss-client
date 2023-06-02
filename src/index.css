@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.menu a.active {
+  color: white;
+}
+.menu a {
+  background: transparent;
+}
